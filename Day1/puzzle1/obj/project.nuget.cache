@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9v3VWTRR5gtWqcV7VHSnPNN7ejhUUb05NPFa1FGGk1R8eHCT5+c15/9mfF7KosRvobZh1Q18BbzCKhFRU7vUA==",
+  "success": true,
+  "projectFilePath": "/home/christopher/Code/AdventOfCode/Day1/puzzle1/puzzle1.csproj",
+  "expectedPackageFiles": [
+    "/home/christopher/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/bin/Debug/net7.0/puzzle1
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/bin/Debug/net7.0/puzzle1.deps.json
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/bin/Debug/net7.0/puzzle1.runtimeconfig.json
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/bin/Debug/net7.0/puzzle1.dll
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/bin/Debug/net7.0/puzzle1.pdb
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.csproj.AssemblyReference.cache
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.AssemblyInfoInputs.cache
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.AssemblyInfo.cs
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.csproj.CoreCompileInputs.cache
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.dll
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/refint/puzzle1.dll
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.pdb
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/puzzle1.genruntimeconfig.cache
+/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/Debug/net7.0/ref/puzzle1.dll
