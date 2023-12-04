@@ -17,7 +17,7 @@ class Program1
                 int one = getFirstNumberOfCharArray(charArray);
                 Array.Reverse(charArray);
                 int two = getFirstNumberOfCharArray(charArray);
-                
+
                 total += Int32.Parse(one.ToString() + two.ToString());
             }
 
@@ -36,7 +36,7 @@ class Program1
         {
             if(isCharAnInt(str[ii]))
             {
-                return str[ii];
+                return int.Parse(str[ii].ToString());
             }
         }
         throw new ArgumentException("Couldnt find a number in the given array");
