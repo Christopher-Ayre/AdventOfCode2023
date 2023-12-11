@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9v3VWTRR5gtWqcV7VHSnPNN7ejhUUb05NPFa1FGGk1R8eHCT5+c15/9mfF7KosRvobZh1Q18BbzCKhFRU7vUA==",
+  "dgSpecHash": "rue17U8BiBCfiFuxBHYLBpDb6k57/ee2WFjV5f5Bucm5gLdYdDVeTOKJBNxAs+qwapBn8UOWC65ZKxL3EjSw9Q==",
   "success": true,
-  "projectFilePath": "/home/christopher/Code/AdventOfCode/Day1/puzzle1/puzzle1.csproj",
-  "expectedPackageFiles": [
-    "/home/christopher/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\CODE\\PROGRESS\\AdventOfCode2023\\Day1\\puzzle1\\puzzle1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

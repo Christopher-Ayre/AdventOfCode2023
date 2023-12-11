@@ -8,24 +8,33 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/christopher/.nuget/packages/": {}
+    "C:\\Users\\Christopher\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/christopher/Code/AdventOfCode/Day1/puzzle1/puzzle1.csproj",
+      "projectUniqueName": "E:\\CODE\\PROGRESS\\AdventOfCode2023\\Day1\\puzzle1\\puzzle1.csproj",
       "projectName": "puzzle1",
-      "projectPath": "/home/christopher/Code/AdventOfCode/Day1/puzzle1/puzzle1.csproj",
-      "packagesPath": "/home/christopher/.nuget/packages/",
-      "outputPath": "/home/christopher/Code/AdventOfCode/Day1/puzzle1/obj/",
+      "projectPath": "E:\\CODE\\PROGRESS\\AdventOfCode2023\\Day1\\puzzle1\\puzzle1.csproj",
+      "packagesPath": "C:\\Users\\Christopher\\.nuget\\packages\\",
+      "outputPath": "E:\\CODE\\PROGRESS\\AdventOfCode2023\\Day1\\puzzle1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/christopher/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Christopher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,18 +63,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.13, 7.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
